@@ -1,0 +1,1 @@
+web: gunicorn pnp_proj.wsgi
